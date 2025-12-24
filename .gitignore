@@ -67,5 +67,5 @@ pip-selfcheck.json
 # IDEs
 .idea/
 
-configuration/
+# configuration/
 db/
